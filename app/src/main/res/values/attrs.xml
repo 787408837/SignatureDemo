@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ButtonTextView">
+        <!--按下文字颜色-->
+        <attr name="pressTxtColor" format="color" />
+        <!--按下背景-->
+        <attr name="pressBgc" format="color" />
+        <!--边框颜色默认的颜色和正常文字颜色一样-->
+        <attr name="stroke" format="dimension" />
+        <!--圆角弧度 可以是具体数值，也可以是边框的百分比-->
+        <attr name="corner" format="dimension|fraction" />
+    </declare-styleable>
+</resources>
