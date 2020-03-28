@@ -5,7 +5,7 @@ import android.app.Application;
 import com.yatoooon.screenadaptation.ScreenAdapterTools;
 
 /**
- * @author Klein
+ * @author zss
  * @version 1.1.5
  * @date 2018/12/6 11:34
  */
